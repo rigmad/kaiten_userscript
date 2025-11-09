@@ -4,6 +4,10 @@
 // @version      1.2
 // @description  Добавляет выпадающий список шаблонов между кнопками "Редактировать markdown" и "Отменить" на kaiten.x5.ru для поля "Введите причину блокировки"
 // @author       rigmad
+// @homepageURL  https://github.com/rigmad/kaiten_userscript/
+// @updateURL    https://github.com/rigmad/kaiten_userscript/raw/refs/heads/main/kaiten-x5-block-reason-templates.user.js
+// @downloadURL  https://github.com/rigmad/kaiten_userscript/raw/refs/heads/main/kaiten-x5-block-reason-templates.user.js
+// @supportURL   https://github.com/rigmad/kaiten_userscript/issues
 // @match        https://kaiten.x5.ru/*
 // @grant        none
 // ==/UserScript==
