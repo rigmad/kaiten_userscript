@@ -30,7 +30,7 @@
 
 #### 🧩 Способ 1 — через GitHub (рекомендуется)
 1. Откройте ссылку:  
-👉 [Установить автоматически](https://github.com/rigmad/kaiten-x5-block-reason-templates/raw/main/kaiten-x5-block-reason-templates.user.js)
+👉 [Установить автоматически](https://github.com/rigmad/kaiten_userscript/raw/refs/heads/main/kaiten-x5-block-reason-templates.user.js)
 
 2. Tampermonkey предложит установить скрипт — подтвердите.
 
